@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *Prathmeshudanshiv@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view">Resume📃</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1JTYIfQVpMUkpJTf_ctnzhdeQxnFbH_XI?usp=sharing">Resume📃</a>
 - <table>
   <tr>
     <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-u&layout=compact&theme=dark" alt="prathmesh-u" /></td>
