@@ -10,21 +10,21 @@
 
 <p align="left"> <a href="https://twitter.com/suracechoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/suracechoudhary?logo=twitter&style=for-the-badge" alt="suracechoudhary" /></a> </p>
 
-- 💬 Ask me about **Design(UI/UX, Logo, Label branding) & Front-End Development**
+- 💬 Ask me about **Data, AI, ML, Automation and Robotics**
 
 - 📫 How to reach me *Prathmeshudanshiv@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view">Resume📃</a>
 - <table>
   <tr>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sschoudhary30&layout=compact&theme=dark" alt="sureshchoudhary" /></td>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sschoudhary&theme=dark&width=10000" alt="sureshchoudhary" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-u&layout=compact&theme=dark" alt="prathmesh-u" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-u&theme=dark&width=10000" alt="prathmesh-u" /></td>
   </tr>
 </table>
 <h3 align="left"> Coding Profile</h3>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/suresh_aumix?ext=heatmap)
+![Leetcode Stats](https://leetcode.com/u/Pratftw/)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -40,8 +40,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" align="left" height="42"/> </a> 
-
+<p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="42" align="left"/> </a> 
 
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer"  align="left" height="42"/> </a> 
