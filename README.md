@@ -5,7 +5,7 @@
 <p align="center">
   🚀 Turning real-world problems into practical solutions using data, ML, and code.
 </p>
-<p align="left"> <a href="prathmeshudanshiv@gmail.com" target="blank"><img src="![image](https://github.com/user-attachments/assets/48be2629-6688-4e37-9bfd-9d9e2906da1f)" alt="Email" /></a> </p>
+<p align="left"> <a target="blank"> PrathmeshUdanshiv@gmail.com</a> </p>
 
 ## 🧑‍💻 About Me
 
