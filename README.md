@@ -11,10 +11,12 @@
 - 2025 Engineering Graduate, Passionate about **AI, data analytics, and industrial automation**
 - Currently working on a mission to build real-world, deployment-ready AI systems.🛠
 - Curious Learner, always ready to learn something new! 🧠
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/prathmesh-udanshiv/) 📫
+- How to reach me:
+  [LinkedIn](https://www.linkedin.com/in/prathmesh-udanshiv/), [Email](prathmeshudanshiv@gmail.com), [X.com](https://x.com/Pratftw), [Instagram](https://www.instagram.com/pratftw/)📫
+  
   
 
-  ## 🛠 Tech Stack
+## 🛠 Tech Stack
 
 - 💻 Languages: Python, SQL, HTML/CSS, Java
 - 🔎 Tools: Pandas, NumPy, Matplotlib, Scikit-learn, Power BI, Excel, Selenium
