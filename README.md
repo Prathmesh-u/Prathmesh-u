@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Prathmesh 👋</h1>
 <p align="center">
-  <b>Builder of ideas. Data & AI Enthusiast. Lifelong Learner</b>
+  <b>Builder of ideas. Data & AI Enthusiast. Lifelong Learner.</b>
 </p>
 <p align="center">
   🚀 Turning real-world problems into practical solutions using data, ML, and code.
