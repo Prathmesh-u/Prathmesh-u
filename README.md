@@ -25,6 +25,6 @@
 - 🧠 Exploring: APIs, PyTorch, Hugging Face, LangChain
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-u&layout=compact&theme=tokyonight" />
 </p>
