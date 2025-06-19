@@ -5,6 +5,7 @@
 <p align="center">
   🚀 Turning real-world problems into practical solutions using data, ML, and code.
 </p>
+<p align="left"> <a href="prathmeshudanshiv@gmail.com" target="blank"><img src="![image](https://github.com/user-attachments/assets/48be2629-6688-4e37-9bfd-9d9e2906da1f)" alt="Email" /></a> </p>
 
 ## 🧑‍💻 About Me
 
@@ -12,7 +13,7 @@
 - Currently working on a mission to build real-world, deployment-ready AI systems.🛠
 - Curious Learner, always ready to learn something new! 🧠
 - How to reach me:
-  [LinkedIn](https://www.linkedin.com/in/prathmesh-udanshiv/), [Email](prathmeshudanshiv@gmail.com), [X.com](https://x.com/Pratftw), [Instagram](https://www.instagram.com/pratftw/)📫
+  [LinkedIn](https://www.linkedin.com/in/prathmesh-udanshiv/), [X.com](https://x.com/Pratftw), [Instagram](https://www.instagram.com/pratftw/)📫
   
   
 
