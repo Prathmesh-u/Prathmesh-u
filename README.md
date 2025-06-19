@@ -5,7 +5,7 @@
 <p align="center">
   🚀 Turning real-world problems into practical solutions using data, ML, and code.
 </p>
-<p align="left"> <a target="blank">📩 Prathmeshudanshiv@gmail.com</a> </p>
+<p align="right"> <a target="blank">📩 Prathmeshudanshiv@gmail.com</a> </p>
 
 ## 🧑‍💻 About Me
 
